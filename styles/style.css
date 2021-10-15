@@ -1,3 +1,8 @@
+body {
+  margin: 0;
+}
+
+
 @font-face {
   font-family: "Marlene Grande Regular";
   src: url(fonts/MarleneGrande-Regular.woff);
