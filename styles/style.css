@@ -108,7 +108,7 @@ section {
 }
 
 .architecture div {
-  width: 33%;
+  width: 29.3%;
 }
 
 .architecture p {
@@ -144,6 +144,7 @@ section p {
 .architectureimage{
   width: 1060px;
   margin: 0 auto;
+  outline: 2px solid;
 }
 
 img {
@@ -245,4 +246,92 @@ footer hr {
 
 #IlyaRuderman {
   padding-bottom: 100px;
+}
+#facts{
+  width: 1060px;
+  margin: 0 auto;
+  font-family: "Marlene Grande Bold";
+  font-size: 20px;
+}
+#factsimg{
+  width: 24.4%;
+}
+#facts1{
+  width: 29.3%;
+}
+#facts2{
+  width: 46.3%;
+}
+.types{
+  width: 1060px;
+  margin: 0 auto;
+}
+
+#typestext{
+  width: 23.3%;
+  font-family: Marlene Grande;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+}
+#typesempty{
+  width: 4%;
+}
+#types{
+  width: 45,4%;
+}
+#types p{
+  margin: 0 auto;
+}
+#typestypes{
+  width: 100%;
+  margin-left: ;
+
+}
+#for{
+  font-family: "Marlene Grande Bold Italic";
+  font-size: 63.1172px;
+  line-height: 152%;
+}
+#etimo{
+  font-family: "Marlene Grande Medium";
+  font-size: 60.8832px;
+  line-height: 152%;
+}
+#Пасля{
+  font-family: "Marlene Grande Italic";
+  font-size: 31.5783px;
+  line-height: 152%;
+}
+#JOJO{
+  font-family: "Marlene Grande Bold";
+  font-size: 109.403px;
+  line-height: 152%;
+}
+#Murr{
+  font-family: "Marlene Grande Light";
+  font-size: 62.7001px;
+  line-height: 152%;
+}
+#Pusi{
+  font-family: "Marlene Grande Bold";
+  font-size: 27.87px;
+  line-height: 152%;
+}
+#Msk{
+  font-family: "Marlene Grande Italic";
+  font-size: 38.1207px;
+  line-height: 152%;
+}
+#schr{
+  font-family: "Marlene Grande Medium";
+  font-size: 45.6411px;
+  line-height: 152%;
+}
+#Itak{
+  font-family: "Marlene Grande Light";
+  font-size: 19.4126px;
+  line-height: 152%;
+
 }
