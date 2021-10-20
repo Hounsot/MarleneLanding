@@ -10,42 +10,42 @@ hr {
 
 @font-face {
   font-family: "Marlene Grande Regular";
-  src: url(fonts/MarleneGrande-Regular.woff);
+  src: url(font/MarleneGrande-Regular.woff);
 }
 
 @font-face {
   font-family: "Marlene Grande Light";
-  src: url(fonts/MarleneGrande-Light.woff);
+  src: url(font/MarleneGrande-Light.woff);
 }
 
 @font-face {
   font-family: "Marlene Grande Light Italic";
-  src: url(fonts/MarleneGrande-LightItalic.woff);
+  src: url(font/MarleneGrande-LightItalic.woff);
 }
 
 @font-face {
   font-family: "Marlene Grande Medium";
-  src: url(fonts/MarleneGrande-Medium.woff);
+  src: url(font/MarleneGrande-Medium.woff);
 }
 
 @font-face {
   font-family: "Marlene Grande Medium Italic";
-  src: url(fonts/MarleneGrande-MediumItalic.woff);
+  src: url(font/MarleneGrande-MediumItalic.woff);
 }
 
 @font-face {
   font-family: "Marlene Grande Italic";
-  src: url(fonts/MarleneGrande-Italic.woff);
+  src: url(font/MarleneGrande-Italic.woff);
 }
 
 @font-face {
   font-family: "Marlene Grande Bold Italic";
-  src: url(fonts/MarleneGrande-BoldItalic.woff);
+  src: url(font/MarleneGrande-BoldItalic.woff);
 }
 
 @font-face {
   font-family: "Marlene Grande Bold";
-  src: url(fonts/MarleneGrande-Bold.woff);
+  src: url(font/MarleneGrande-Bold.woff);
 }
 
 .header {
