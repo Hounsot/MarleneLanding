@@ -167,9 +167,11 @@ img {
 .lolik div {
   width: 33%;
 }
-.speaker{
+
+.speaker {
   maqrgin-top: 0%;
 }
+
 .lolik h1 {
   font-size: 80px;
   text-align: left;
@@ -178,23 +180,27 @@ img {
   margin-bottom: 20px;
   color: #414141;
 }
+
 .qwe {
   margin: auto;
 }
+
 .qwe h1 {
   font-size: 500px;
   margin: 234px auto;
   font-family: "Marlene Grande Medium";
 }
-.lolik hr{
+
+.lolik hr {
   width: 95%;
   margin-right: 5%;
 }
-.space{
+
+.space {
   height: 200px;
 }
 
-.smallspace{
+.smallspace {
   height: 40px;
 }
 
@@ -383,7 +389,6 @@ footer hr {
   margin-top: 250px;
   weight: 100%;
   height: 100%;
-
 }
 
 #aue {
@@ -419,9 +424,50 @@ footer hr {
   margin-left: 100%;
   margin-top: 8px;
 }
-#subtitle{
+
+#subtitle {
   font-size: 25px;
   font-family: "Marlene Grande Medium";
   margin-bottom: 10px;
   margin-top: 11px;
+}
+
+.Kant {
+  margin: 0 auto;
+  width: 100% !important;
+
+}
+
+.Kant h1 {
+  line-height: 0;
+}
+
+#firsthr {
+  margin-bottom: 0;
+  border: 0px solid;
+  height: 1px;
+  width: 100%;
+}
+
+#secondhr {
+  margin-top: px;
+  border: 0px solid;
+  height: 1px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.kantdiv{
+  margin: 0 auto;
+}
+#thirdhr {
+  border: 0px solid;
+  height: 1px;
+  width: 100%;
+  margin-bottom: 28px;
+}
+
+#fourthhr {
+  border: 0px solid;
+  height: 1px;
+  margin-top: 25px;
 }
