@@ -438,8 +438,11 @@ footer hr {
 
 }
 
-.Kant h1 {
+.Kant p {
   line-height: 0;
+  font-size: 140px;
+  text-align: center;
+  font-family: "Marlene Grande Bold";
 }
 
 #firsthr {
@@ -450,11 +453,11 @@ footer hr {
 }
 
 #secondhr {
-  margin-top: px;
+  margin-top: 10px;
   border: 0px solid;
   height: 1px;
   width: 100%;
-  margin-bottom: 30px;
+  margin-bottom: 22px;
 }
 .kantdiv{
   margin: 0 auto;
@@ -463,11 +466,11 @@ footer hr {
   border: 0px solid;
   height: 1px;
   width: 100%;
-  margin-bottom: 28px;
+  margin-bottom: 39px;
 }
 
 #fourthhr {
   border: 0px solid;
   height: 1px;
-  margin-top: 25px;
+  margin-top: 35px;
 }
