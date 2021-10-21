@@ -236,6 +236,12 @@ footer hr {
   padding-bottom: 5.5px;
 }
 
+.subtitlebody{
+  font-family: "Marlene Grande Medium";
+  font-size: 24px;
+  line-height: 29px;
+
+}
 #Light {
   font-family: "Marlene Grande Light";
 }
