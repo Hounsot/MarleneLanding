@@ -105,9 +105,11 @@ h1 {
 }
 
 .headertext p {
+  margin-top: 20px;
+  margin-bottom: 15px;
   font-family: "Marlene Grande Regular";
   font-size: 18px;
-  line-height: 1.5em;
+  line-height: 0;
   text-transform: capitalize;
   color: #444;
 }
@@ -285,6 +287,8 @@ footer hr {
 }
 
 #intro {
+  line-height: 0;
+  padding-bottom: 2px;
   padding-right: 150px;
   font-size: 24px;
 }
@@ -488,7 +492,7 @@ footer hr {
   border: 0px solid;
   height: 1px;
   width: 1060px;
-  margin-bottom: 25px;
+  margin-bottom: 22px;
 }
 
 .kantdiv {
