@@ -77,7 +77,10 @@ h1 {
 #upperline {
   margin-bottom: 0px;
 }
-
+#texthr{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 .thickline {
   width: 1060px;
   height: 2px;
@@ -200,6 +203,10 @@ img {
   height: 200px;
 }
 
+.smallerspace{
+  height: 20px;
+
+}
 .smallspace {
   height: 40px;
 }
@@ -534,7 +541,6 @@ footer hr {
 #subtitlehr {
   margin-left: 0;
   width: 40%;
-  height: 2px;
   margin-top: 15px;
   margin-bottom: 20px;
 }
