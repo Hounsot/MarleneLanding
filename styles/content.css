@@ -137,7 +137,11 @@ section p {
   font-size: 20px;
   line-height: 29px;
 }
-
+.lefttext{
+  font-family: "Marlene Grande Regular";
+  font-size: 18px;
+  line-height: 25px;
+}
 .article {
   width: 300px;
 }
