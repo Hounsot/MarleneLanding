@@ -435,7 +435,6 @@ footer hr {
 .Kant {
   margin: 0 auto;
   width: 100% !important;
-
 }
 
 .Kant p {
@@ -459,9 +458,11 @@ footer hr {
   width: 1060px;
   margin-bottom: 22px;
 }
-.kantdiv{
+
+.kantdiv {
   margin: 0 auto;
 }
+
 #thirdhr {
   border: 0px solid;
   height: 1px;
@@ -476,79 +477,111 @@ footer hr {
   width: 1060px;
 }
 
-.Magazine{
+.Magazine {
   font-family: "Marlene Grande Regular";
   font-size: 100px;
   margin: 0 auto;
   text-align: center;
 }
-.central{
+
+.central {
   width: 100%;
   height: 1000px;
 }
-.rightcolumn{
+
+.rightcolumn {
   display: flex;
   flex-direction: column;
-
 }
-.rightcolumn div{
+
+.rightcolumn div {
   margin-left: 185px;
 }
-.leftcolumn{
 
-}
-#lyft{
+.leftcolumn {}
+
+#lyft {
   margin-left: 182px;
   margin-top: 40px;
 }
-#maintext{
+
+#maintext {
   font-family: "Marlene Grande Regular";
   font-size: 24.9804px;
   line-height: 30px;
 }
-#subtitlel{
+
+#subtitlel {
   font-size: 18px;
   line-height: 22px;
   color: #414141;
 }
-#subtitlehr{
+
+#subtitlehr {
   width: 121px;
-  margin-left:0px;
+  margin-left: 0px;
   height: 2px;
   border: 0px;
 }
-#creatorshr{
+
+#creatorshr {
   margin-bottom: 0;
 }
-.creators{
+
+.creators {
   width: 1060px;
   margin: 0 auto;
 }
-.rectanglecreators{
-  width: 290px;
+
+.rectanglecreators {
+  width: 250px;
   height: 8px;
   background-color: black;
 }
-#pcreators{
-margin-top: 5px;
-font-size: 23.7273px;
-line-height: 28px;
-font-family: "Marlene Grande Medium";
+
+#pcreators {
+  margin-top: 5px;
+  font-size: 23.7273px;
+  line-height: 28px;
+  font-family: "Marlene Grande Medium";
 }
 
-#creatorsphotos{
+#creatorsphotos {
   width: 1060px;
   margin: 0 auto;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-
 }
 
-#IlyaPhoto{
+#IlyaPhoto {
   margin-right: 40px;
 }
 
-#NikolaPhoto{
+.NikolaPhoto {
   margin-left: 40px;
+}
+
+.zzss{
+  margin: 0 auto;
+  width: 1060px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.zz{
+  width: 33%;
+  font-family: "Marlene Grande Regular";
+  font-size: 20px;
+  line-height: 29px;
+}
+.zz hr{
+  width: 327px;
+  margin-right: 22px;
+}
+.ss{
+  width: 66%;
+  font-family: "Marlene Grande Regular";
+  font-size: 20px;
+  line-height: 29px;
 }
