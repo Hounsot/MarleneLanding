@@ -97,6 +97,13 @@ h1 {
   text-align: center;
 }
 
+.placeholder{
+  width: 300px;
+  height: 245px;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+
 .headertext p {
   font-family: "Marlene Grande Regular";
   font-size: 18px;
@@ -140,10 +147,18 @@ section p {
 .lefttext{
   font-family: "Marlene Grande Regular";
   font-size: 18px;
-  line-height: 30px;
+  line-height: 25px;
+  margin-bottom: 22px;
 }
 .article {
   width: 300px;
+}
+
+.coverscovers{
+  width: 1060px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
 }
 
 .imgfirst {
@@ -547,6 +562,14 @@ footer hr {
   width: 40%;
   margin-top: 15px;
   margin-bottom: 20px;
+}
+
+#subtitlehrGum{
+  margin-left: 0;
+  width: 60%;
+  margin-top: 15px;
+  margin-bottom: 20px;
+
 }
 
 #creatorshr {
