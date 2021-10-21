@@ -434,7 +434,7 @@ footer hr {
 
 .Kant {
   margin: 0 auto;
-  width: 100% !important;
+  width: 100%;
 }
 
 .Kant p {
@@ -457,10 +457,6 @@ footer hr {
   height: 1px;
   width: 1060px;
   margin-bottom: 22px;
-}
-
-.kantdiv {
-  margin: 0 auto;
 }
 
 #thirdhr {
