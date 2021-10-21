@@ -539,14 +539,16 @@ font-family: "Marlene Grande Medium";
 #creatorsphotos{
   width: 1060px;
   margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
 }
 
 #IlyaPhoto{
-  width: 33%;
+  margin-right: 40px;
 }
 
 #NikolaPhoto{
-  width: 64%;
-  display: flex;
-  flex-direction: row;
+  margin-left: 40px;
 }
